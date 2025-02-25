@@ -1,0 +1,7 @@
+{
+  "data": {
+    "id": 305,
+    "endpoint_id": 218,
+    "schema": "{\n \"itemSchemas\": [\n  {\n   \"name\": \"product\",\n   \"tenant\": \"sandbox\",\n   \"environment\": \"live\",\n   \"version\": 2,\n   \"attributes\": [],\n   \"nestedItemSchemas\": []\n  },\n  {\n   \"name\": \"product\",\n   \"tenant\": \"sandbox\",\n   \"environment\": \"live\",\n   \"version\": 1,\n   \"attributes\": [],\n   \"nestedItemSchemas\": []\n  }\n ]\n}"
+  }
+}

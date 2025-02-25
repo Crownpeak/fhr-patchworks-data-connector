@@ -1,0 +1,7 @@
+{
+  "data": {
+    "id": 313,
+    "endpoint_id": 245,
+    "schema": "{\n    \"numberOfSuccesses\": 0,\n    \"numberOfFailures\": 0,\n    \"numberOfPendingUpdates\": 0\n}"
+  }
+}

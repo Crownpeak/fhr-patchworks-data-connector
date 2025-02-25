@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": "01jm03f2d9gysqc7cs338jmabt",
+      "key": "batch_ingestion_id",
+      "value": null,
+      "label": "Batch Ingestion Id",
+      "secret": false,
+      "locked": false,
+      "modified": false,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "batch_ingestion_id",
+        "id": 1181
+      }
+    }
+  ]
+}

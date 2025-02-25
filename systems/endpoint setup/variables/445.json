@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "01jkwvsxhkmbf7cxx320fdhx8d",
+      "key": "catalog_version",
+      "value": null,
+      "label": "Catalog Version",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "catalog_version",
+        "id": 1139
+      }
+    },
+    {
+      "id": "01jkwvvt3z0nb87f5fbz4kwg8a",
+      "key": "update_state",
+      "value": "SUCCESS",
+      "label": "Update State",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "update_state",
+        "id": 1140
+      }
+    }
+  ]
+}

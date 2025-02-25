@@ -1,0 +1,7 @@
+{
+  "data": {
+    "id": 310,
+    "endpoint_id": 235,
+    "schema": "{\n    \"batchImports\": [\n        {\n            \"id\": \"6ea91937-262f-4b98-87ce-8fff8a740f01\",\n            \"createdAt\": \"2025-02-12T14:56:53.538415Z\"\n        }\n    ]\n}"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "data": {
+    "id": 303,
+    "endpoint_id": 446,
+    "schema": "[\n    {\n        \"id\": \"008010111020\",\n        \"catalogVersion\": 1,\n        \"context\": \"global\",\n        \"type\": \"product\",\n        \"timestamp\": \"2022-02-14T17:35:21.607+02:00\",\n        \"attributes\": {\n            \"description\": {\n                \"bg_BG\": \"Gold  rose organza prom dress\",\n                \"de_DE\": \"Gold  rose organza prom dress\",\n                \"en_GB\": \"Gold  rose organza prom dress\",\n                \"en_US\": \"Gold  rose organza prom dress\"\n            }\n        }\n    },\n    {\n        \"id\": \"008010111020_gold\",\n        \"catalogVersion\": 1,\n        \"context\": \"global\",\n        \"type\": \"variant\",\n        \"parentId\": \"008010111020\",\n        \"timestamp\": \"2022-02-14T17:35:21.607+02:00\",\n        \"attributes\": {\n            \"colour\": {\n                \"value\": {\n                    \"bg_BG\": \"gold\",\n                    \"de_DE\": \"gold\",\n                    \"en_GB\": \"gold\",\n                    \"en_US\": \"gold\"\n                },\n                \"value_id\": \"gold\"\n            }\n        }\n    }\n]"
+  }
+}

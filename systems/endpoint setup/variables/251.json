@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "01jjyd43v1ayjc9t0s6revy1dd",
+      "key": "catalog_version",
+      "value": null,
+      "label": "Catalog Version",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "catalog_version",
+        "id": 1252
+      }
+    },
+    {
+      "id": "01jkbk511dz4evhyz086wxen8s",
+      "key": "receipt_id",
+      "value": null,
+      "label": "Receipt Id",
+      "secret": false,
+      "locked": false,
+      "modified": false,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "receipt_id",
+        "id": 840
+      }
+    }
+  ]
+}

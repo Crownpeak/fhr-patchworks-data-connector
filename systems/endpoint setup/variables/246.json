@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": "01jjyd43v1ayjc9t0s6revy1dd",
+      "key": "catalog_version",
+      "value": null,
+      "label": "Catalog Version",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "catalog_version",
+        "id": 1225
+      }
+    }
+  ]
+}
