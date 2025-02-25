@@ -1,0 +1,7 @@
+{
+  "data": {
+    "id": 270,
+    "endpoint_id": 228,
+    "schema": "{\n    \"catalogItemSchemas\": [\n        {\n            \"name\": \"product\",\n            \"version\": 1\n        }\n    ],\n    \"catalogCategoryTrees\": [\n       {\n           \"name\": \"catalog01\",\n           \"version\": 1\n       }\n    ]\n}"
+  }
+}

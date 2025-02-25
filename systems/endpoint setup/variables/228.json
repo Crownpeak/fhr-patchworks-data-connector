@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": "01jkbjvscqqpmjq284hck7nf95",
+      "key": "schema_version",
+      "value": null,
+      "label": "Schema Version",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "schema_version",
+        "id": 1194
+      }
+    },
+    {
+      "id": "01jm2pgzvammtnwav50vnc06gy",
+      "key": "schema_name",
+      "value": null,
+      "label": "Schema Name",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "schema_name",
+        "id": 1193
+      }
+    },
+    {
+      "id": "01jm2pm519tx00ypg0q6qepgte",
+      "key": "category_tree_name",
+      "value": null,
+      "label": "Category Tree Name",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "category_tree_name",
+        "id": 1195
+      }
+    },
+    {
+      "id": "01jm2pney268d9k7j19wfgac91",
+      "key": "category_tree_version",
+      "value": null,
+      "label": "Category Tree Version",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "category_tree_version",
+        "id": 1196
+      }
+    }
+  ]
+}

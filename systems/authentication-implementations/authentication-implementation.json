@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": 17,
+    "name": "OAuth 2",
+    "endpoint": "https://iam.attraqt.io/auth/realms/{{tenant}}/protocol/openid-connect/token",
+    "method": "POST",
+    "additional_endpoint_1": null,
+    "additional_endpoint_2": null,
+    "authentication_type_id": 3,
+    "authentication_implementation_template_id": 1472,
+    "system_id": 5,
+    "body_format": "form-data",
+    "data_type": null,
+    "pre_script_version_id": null,
+    "post_script_version_id": null,
+    "timeout": 30,
+    "modified": true,
+    "help_link": "https://crownpeak.gitbook.io/product-discovery/product-discovery-developer-guide/item-catalog-management/authorization-to-apis"
+  }
+}

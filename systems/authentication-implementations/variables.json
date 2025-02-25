@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "01jjy7zxe241k0vvv3x754ghfa",
+      "key": "tenant",
+      "value": null,
+      "label": "Tenant",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "tenant",
+        "id": 1011
+      }
+    },
+    {
+      "id": "01jjy839f466crsfggtt3k3vnd",
+      "key": "environment",
+      "value": null,
+      "label": "Environment",
+      "secret": false,
+      "locked": false,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": false,
+        "advanced": false,
+        "alias": "environment",
+        "id": 1063
+      }
+    },
+    {
+      "id": "01jkfwp0w5fqg5fv8816eagnpf",
+      "key": "scope",
+      "value": "openid",
+      "label": "Scope",
+      "secret": false,
+      "locked": true,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "scope",
+        "id": 1006
+      }
+    },
+    {
+      "id": "01jkfwp0yd99tj8wdaw4cbpqhg",
+      "key": "client_credentials_grant_type",
+      "value": "client_credentials",
+      "label": "Grant type",
+      "secret": false,
+      "locked": true,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "client_credentials_grant_type",
+        "id": 1007
+      }
+    },
+    {
+      "id": "01jkfwp10hwqq3pfesxvb7q3kg",
+      "key": "client_id",
+      "value": null,
+      "label": "Client ID",
+      "secret": false,
+      "locked": true,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "client_id",
+        "id": 1008
+      }
+    },
+    {
+      "id": "01jkfwp14gxfj3r520z9vntv06",
+      "key": "client_secret",
+      "value": "*****",
+      "label": "Client secret",
+      "secret": true,
+      "locked": true,
+      "modified": true,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "client_secret",
+        "id": 1009
+      }
+    },
+    {
+      "id": "01jkfwp16jjabxfjz55az8wrzq",
+      "key": "response_authentication_token_key",
+      "value": "access_token",
+      "label": "Response Authentication Token Key",
+      "secret": false,
+      "locked": true,
+      "modified": false,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": null,
+        "id": 1010
+      }
+    }
+  ]
+}

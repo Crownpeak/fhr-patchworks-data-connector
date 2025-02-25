@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "01jk8yjrc585req12smbq2kxtb",
+      "key": "size",
+      "value": "5",
+      "label": "Size",
+      "secret": false,
+      "locked": false,
+      "modified": false,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": true,
+        "advanced": false,
+        "alias": "size",
+        "id": 827
+      }
+    },
+    {
+      "id": "01jktkxx69qbt0jpbvn5g2fz6r",
+      "key": "from",
+      "value": "0",
+      "label": "From",
+      "secret": false,
+      "locked": false,
+      "modified": false,
+      "pivot": {
+        "configurable": true,
+        "modified": false,
+        "required": false,
+        "advanced": false,
+        "alias": "from",
+        "id": 1116
+      }
+    }
+  ]
+}
