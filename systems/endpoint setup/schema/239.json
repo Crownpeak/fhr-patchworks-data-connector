@@ -1,7 +1,0 @@
-{
-  "data": {
-    "id": 262,
-    "endpoint_id": 239,
-    "schema": "{\n    \"batchImportId\": \"1\",\n    \"catalogVersion\": \"1\",\n    \"minItemCount\": \"0\",\n    \"minSuccessRatePercent\": \"2\",\n    \"promoteCatalogOnCompletion\": false\n}"
-  }
-}

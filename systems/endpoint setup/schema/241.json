@@ -1,7 +1,0 @@
-{
-  "data": {
-    "id": 312,
-    "endpoint_id": 241,
-    "schema": "{\n    \"batchImportIngestions\": [\n        {\n            \"id\": \"452840a4-8410-472b-b19d-7161453d6baa\",\n            \"configuration\": {\n                \"batchImportId\": \"1993a348-2554-4a35-bdb3-5f0d08376f45\",\n                \"catalogVersion\": 2,\n                \"minItemCount\": 0,\n                \"minSuccessRatePercent\": 2,\n                \"source\": \"\",\n                \"deleteMissingItems\": false,\n                \"promoteCatalogOnCompletion\": false\n            },\n            \"status\": \"\",\n            \"statusReason\": \"\",\n            \"itemErrorCount\": 0,\n            \"itemErrorsSummary\": {},\n            \"upsertedItemCount\": 0,\n            \"deletedItemCount\": 0,\n            \"duration\": \"41s\",\n            \"createdAt\": \"2025-02-13T15:19:21.277920Z\",\n            \"updatedAt\": \"2025-02-13T15:20:07.837597Z\"\n        }\n    ]\n}"
-  }
-}

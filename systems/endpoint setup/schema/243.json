@@ -1,7 +1,0 @@
-{
-  "data": {
-    "id": 263,
-    "endpoint_id": 243,
-    "schema": "{\n \"catalogCreation\": {\n  \"version\": \"2\",\n  \"startTimestamp\": \"2025-02-19T12:49:37.945340884\",\n  \"endTimestamp\": \"2025-02-19T12:49:37.964297932\",\n  \"duration\": 0,\n  \"state\": \"SUCCESS\",\n  \"message\": \"Creation of the catalog version #2 succeed \/\/ receiptId: c06cfd43-5c2b-4920-826d-4c1bc16fdde7\",\n  \"receiptId\": \"c06cfd43-5c2b-4920-826d-4c1bc16fdef7\",\n  \"environment\": \"live\"\n },\n \"catalogActivations\": [\n  {\n   \"version\": \"2\",\n   \"startTimestamp\": \"2025-02-19T13:49:16.275214171\",\n   \"endTimestamp\": \"2025-02-19T13:49:16.275214171\",\n   \"duration\": 0,\n   \"state\": \"PENDING\",\n   \"message\": \"Activation of the catalog version #2 started \/\/ receiptId: 4257b30a-c7c9-48b7-b67e-4c69bcb84b88\",\n   \"receiptId\": \"4257b30a-c7c9-48b7-b67e-4c69bcb84b66\",\n   \"environment\": \"live\"\n  }\n ]\n}"
-  }
-}

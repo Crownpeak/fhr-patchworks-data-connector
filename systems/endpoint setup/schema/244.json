@@ -1,7 +1,0 @@
-{
-  "data": {
-    "id": 265,
-    "endpoint_id": 244,
-    "schema": "{\n \"catalogCreations\": [\n  {\n   \"version\": \"2\",\n   \"startTimestamp\": \"2025-02-19T14:06:28.632103785\",\n   \"endTimestamp\": \"2025-02-19T14:06:28.65080584\",\n   \"duration\": 0,\n   \"state\": \"SUCCESS\",\n   \"message\": \"Creation of the catalog version #2 succeed \/\/ receiptId: 448020ac-ca54-41d7-90e2-0c5f7bdd13c7\",\n   \"receiptId\": \"448020ac-ca54-41d7-90e2-0c5f7bdd13c7\",\n   \"environment\": \"accountl-live1\"\n  },\n  {\n   \"version\": \"1\",\n   \"startTimestamp\": \"2025-02-19T12:51:54.709656661\",\n   \"endTimestamp\": \"2025-02-19T12:51:54.729378771\",\n   \"duration\": 0,\n   \"state\": \"SUCCESS\",\n   \"message\": \"Creation of the catalog version #1 succeed \/\/ receiptId: 36ff0b0d-cf7c-4c42-9e34-f76dc2177837\",\n   \"receiptId\": \"36ff0b0d-cf7c-4c42-9e34-f76dc2177837\",\n   \"environment\": \"live\"\n  }\n ]\n}"
-  }
-}

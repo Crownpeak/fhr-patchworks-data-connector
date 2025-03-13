@@ -1,7 +1,0 @@
-{
-  "data": {
-    "id": 266,
-    "endpoint_id": 232,
-    "schema": "[\n    {\n        \"id\": \"008010111020\",\n        \"catalogVersion\": 1,\n        \"type\": \"product\"\n    }\n]"
-  }
-}

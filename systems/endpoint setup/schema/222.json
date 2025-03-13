@@ -1,7 +1,0 @@
-{
-  "data": {
-    "id": 261,
-    "endpoint_id": 222,
-    "schema": "{\n    \"categoryTrees\": [\n        {\n            \"tenant\": \"sandbox\",\n            \"environment\": \"live\",\n            \"version\": 1,\n            \"name\": \"catalog01\",\n            \"children\": [],\n            \"localizedNames\": [\n                {\n                    \"name\": \"Store\",\n                    \"locale\": \"en_GB\"\n                },\n                {\n                    \"name\": \"Store\",\n                    \"locale\": \"en_US\"\n                },\n                {\n                    \"name\": \"Store\",\n                    \"locale\": \"bg_BG\"\n                },\n                {\n                    \"name\": \"Store\",\n                    \"locale\": \"de_DE\"\n                }\n            ]\n        }\n    ]\n}"
-  }
-}

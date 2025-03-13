@@ -1,7 +1,0 @@
-{
-  "data": {
-    "id": 318,
-    "endpoint_id": 251,
-    "schema": "{\n    \"update\": {\n        \"startTimestamp\": \"2025-02-19T13:49:16.275214171\",\n        \"endTimestamp\": \"N\/A\",\n        \"duration\": 3605,\n        \"state\": \"PENDING\",\n        \"message\": \"Activation of the catalog version #2 started \/\/ receiptId: 4257b30a-c7c9-48b7-b67e-4c69bcdf4b88\",\n        \"itemId\": \"N\/A\",\n        \"receiptId\": \"4257b30a-c7c9-48b7-b67e-4c69bcdf4b88\",\n        \"catalogId\": \"2\",\n        \"environment\": \"live\"\n    },\n    \"type\": \"SIGNAL\"\n}"
-  }
-}
